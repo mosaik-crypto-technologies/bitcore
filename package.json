@@ -36,10 +36,10 @@
     "url": "https://github.com/bitpay/bitcore.git"
   },
   "dependencies": {
-    "bitcore-lib": "github:mosaik-crypto-technologies/bitcore-lib#testnet",
-    "bitcore-node": "github:mosaik-crypto-technologies/bitcore-node#testnet",
-    "insight-api": "github:mosaik-crypto-technologies/insight-api#testnet",
-    "insight-ui": "github:mosaik-crypto-technologies/insight#testnet"
+    "bitcore-lib": "github:mosaik-crypto-technologies/bitcore-lib#experimental",
+    "bitcore-node": "github:mosaik-crypto-technologies/bitcore-node#experimental",
+    "insight-api": "github:mosaik-crypto-technologies/insight-api#experimental",
+    "insight-ui": "github:mosaik-crypto-technologies/insight#experimental"
   },
   "license": "MIT",
   "devDependencies": {
